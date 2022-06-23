@@ -1,0 +1,2 @@
+# Distance-measurement-using-ultrasonic-sensor
+This project is about measuring distances between two objects or in which one of the objects is a moving body and another object is stationary. It is mainly used in household applications where we use an ultrasonic sensor in a water tank which measures the water level where it is connected to the inner lid or at the top of the water tank. As the ultrasonic sensor monitors the distance the water level can be detected. In this case overflow of the water can be avoided and wastage is being reduced.
